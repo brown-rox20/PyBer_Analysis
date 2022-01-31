@@ -13,7 +13,7 @@ A ride sharing app called PyBer is looking for data analysis for city types and 
 - Urban - The urban area is the only city type that has a higher number of total drivers than the total number of rides. The average fare per ride and the average fare per driver is the lowest of all the city types.
 
 <img src="https://github.com/brown-rox20/PyBer_Analysis/blob/main/Analysis/PyBer_summary.png" alt="PyBer_summary.png"
-width="450">
+width="525">
 
 ### PyBer Fare Results
 
@@ -23,7 +23,7 @@ width="450">
 - The highest total fare in the urban areas occur in last week of February.
 
 <img src="https://github.com/brown-rox20/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png" alt="PyBer_fare_summary.png"
-width="525">
+width="725">
 
 ## Summary
 
