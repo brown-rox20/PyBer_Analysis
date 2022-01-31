@@ -9,5 +9,7 @@ A ride sharing app called PyBer is looking for data analysis in city types on av
 ### PyBer Summary
 
 - Rural - The total rides and drivers in rural areas are among the lowest of all three city types. The average fare per ride is about $20 higher than the average fare per driver. Both the average fare per diver and per ride are the highests of the three city types.
-- Suburban - The average fare per ride is about $9 dollars less that the average fare per driver. Just like the rural areas the total rides are larger than the total drivers.
-- Urban -
+- Suburban - The average fare per ride is about $9 dollars less that the average fare per driver. Just like in the rural areas, the total rides are larger than the total drivers.
+- Urban - The urban area is the only city type that has a higher number of total drivers than the total number of rides. The average fare per ride and the average fare per driver is the lowest of all the city types.
+
+<img src="https://github.com/brown-rox20/PyBer_Analysis/blob/main/Analysis/PyBer_summary.png" alt="PyBer_summary.png">
